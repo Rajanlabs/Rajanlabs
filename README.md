@@ -74,10 +74,10 @@ I enjoy turning data into meaningful insights and building practical projects us
 
 | Project                       | Description                                  | Tech                    |
 | ----------------------------- | -------------------------------------------- | ----------------------- |
-| 📊 **Data Analytics Project** | Business-focused data analysis and insights  | Python • SQL • Power BI |
-| 📈 **Power BI Dashboard**     | Interactive dashboard for business reporting | Power BI • Excel        |
-| 🗄️ **SQL Analytics Project** | SQL-based analysis using real-world datasets | SQL • MySQL             |
-| 🤖 **AI Engineering Project** | Exploring practical AI engineering concepts  | Python • AI             |
+| 📊 **Blinkit Sales Dashboard** | Business-focused data analysis and insights  | SQL • Power BI        |
+| 📈 **Weather Report Dashboard**| Interactive dashboard for weather report | Power BI                  |
+| 🗄️ **** | SQL-based analysis using real-world datasets | SQL • MySQL             |
+| 🤖 **AI Engineering Project** | Exploring practical AI engineering concepts  | Python • AI            |
 
 > ⭐ As my portfolio grows, these projects will be replaced with my strongest repositories.
 
